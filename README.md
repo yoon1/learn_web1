@@ -1,1 +1,4 @@
-생활코딩으로 배우기
+[LEARN] 웹 기초 배우기 - 생활코딩
+
+*LINK*
+- https://opentutorials.org/course/3083
